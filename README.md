@@ -1,5 +1,5 @@
 - 👋 Hi, I am Payal Jain
-- Currently pursuing last year of engineering from KC College of Engineering and Management Studies and Research
+- Completed my engineering from KC College of Engineering and Management Studies and Research
 - I am good at basic of python,java,C,php,HTML,CSS,JavaScript.
 
 
